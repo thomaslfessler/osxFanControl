@@ -1,0 +1,6 @@
+Mac Pro 2009 & 2010 Fan Control is a preference pane that allows control of the system's fan speeds, based upon temperature sensors and user-configured parameters.
+
+NOTE: This has only been confirmed to work on the 2009 and 2010 Mac Pro, try on earlier Mac Pro's at your own risk!
+
+This software was based on:
+http://www.lobotomo.com/products/FanControl/
